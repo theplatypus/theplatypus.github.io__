@@ -24,7 +24,8 @@ And below some software-projects related with these items.
 
 ### Scott Algorithm
 
-[project page](https://theplatypus.github.io/scott/)
+More details on the [project page](https://theplatypus.github.io/scott/).
+
 A canonization algorithm working on fully labeled graphs (vertices and edges), provides for any graph a tree representant of its isomorphism class, that we can derive into : 
 
  - a canonical trace (string)
