@@ -1,0 +1,18 @@
+# Site settings
+title: Nicolas Bloyet
+description: theplatypus
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Nicolas Bloyet
+user_description: I'm a phD student in computer science, working on graphs and their applications in data analysis.
+user_title: "@theplatypus"
+twitter_username: trustyPlatypus
+github_username:  theplatypus
+
+# Google-analytics
+google-analytics:
+  id: "UA-39972326-2"
+
+exclude: ['package.json', 'src' , 'node_modules']
