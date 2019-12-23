@@ -1,6 +1,6 @@
 ## Welcome to my personal page
 
-I'm a PhD student in computer science, living in Vannes (Britanny).
+I am a computer science PhD, living in Vannes (Britanny).
 
 My main interests are :
  - graph theory
