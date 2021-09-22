@@ -72,14 +72,11 @@ University of South Brittany, obtained with honors.
 
 #### Photos 
 
-I really like photography, and you will find some of my favorites shots on [my photo blog](http://www.theplatypus.fr/pics.html), that I'm (slowly) migrating to Adobe [portfolio](https://theplatypus.myportfolio.com).
+I really like photography, and you will find some of my favorites shots on my Adobe [portfolio](https://theplatypus.myportfolio.com).
 
 Some good links :
  - My uncle's photo blog [Headinstars](http://headinstars.com/)
- - the very best of B/W [Kultur Tava](https://www.instagram.com/kulturtava/)
  - AFP [Insta](https://www.instagram.com/afpphoto/)
- - David Alan Harvey's [Insta](https://www.instagram.com/davidalanharvey/) and [magazine](https://www.burnmagazine.org/)
- - Mia Lograda, an incredible film photograph [Insta](https://www.instagram.com/mialograda/)
 
 ...
 
