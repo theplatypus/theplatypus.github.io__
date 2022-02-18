@@ -5,11 +5,11 @@ I am a computer science PhD, living in Vannes (Britanny).
 My main interests are :
  - graph theory
  - graph-mining / graph-learning
- - Natural Langage Processing
+ - Image processing / Computer Vision
 
 And I look forward to learn more on :
- - Image processing / Computer Vision
- - Operations research / Heuristics
+ - Natural Langage Processing
+ - Operations research / Meta-Heuristics
  - General Data Science
 
 ## Research items
