@@ -4,8 +4,8 @@ I am a computer science PhD, living in Morlaix (Britanny).
 
 My main interests are:
  - graph theory
- - graph-mining / graph-learning
- - data engineering
+ - data engineering (SGBD data models)
+ - data science
 
 ## Research items
 
@@ -79,7 +79,18 @@ Available on [TEL](https://tel.archives-ouvertes.fr/tel-02499167).
 
 University of South Brittany, obtained with honors.
 
+## Others
 
+### My CS library
+
+Must-read books
+
+- [Programmation efficace, Dürr Christoph, Vie Jill-Jênn](https://www.editions-ellipses.fr/accueil/3853-programmation-efficace-128-algorithmes-quil-faut-avoir-compris-et-codes-en-python-au-cours-de-sa-vie-9782340010055.html)
+- [Designing Data-Intensive Applications, Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ; fond of his [poster](https://github.com/ept/ddia-references/blob/master/ddia-poster.jpg) from that book
+
+### Trivia
+
+Did you know that graph are so versatile that their generalization (hypergraphs) can themselves be represented as graphs?
 
 ![cafeine](https://raw.githubusercontent.com/theplatypus/theplatypus.github.io/master/assets/img/cafein.svg?sanitize=true)
 
