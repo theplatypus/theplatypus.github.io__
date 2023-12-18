@@ -4,7 +4,7 @@ I am a computer science PhD, living in Morlaix (Britanny).
 
 My main interests are:
  - graph theory
- - data engineering (SGBD data models)
+ - data engineering (my little thing: SGBD data models)
  - data science
 
 ## Research items
