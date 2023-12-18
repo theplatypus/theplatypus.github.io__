@@ -44,10 +44,11 @@ Lannion, Brittany, France
 
 - Participation in the redesign of an IP monitoring system (Netflow) generating a massive flow of data to be collected and aggregated.
 - Maintenance of the existing system, design and architecture of the upcoming major version of the system on another technology (OLAP).
+- Implementation of testing/simulation tools, generation of massive network data.
 - Migrations of SQL databases.
 - Index tailoring.
 
-Skills: Online Analytical Processing (OLAP), Go, SQL (PostgreSQL, MariaDB, Galera), Python (asyncio), Data engineering.
+Skills:  Python (asyncio, pola.rs), Data engineering, Online Analytical Processing (OLAP), Go, SQL (PostgreSQL, MariaDB, Galera).
 
 ### Data Scientist @See-d
 *December 2019 - August 2022 (2 years 9 months)*
