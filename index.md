@@ -1,16 +1,11 @@
 ## Welcome to my personal page
 
-I am a computer science PhD, living in Vannes (Britanny).
+I am a computer science PhD, living in Morlaix (Britanny).
 
-My main interests are :
+My main interests are:
  - graph theory
  - graph-mining / graph-learning
- - Image processing / Computer Vision
-
-And I look forward to learn more on :
- - Natural Langage Processing
- - Operations research / Meta-Heuristics
- - General Data Science
+ - data engineering
 
 ## Research items
 
@@ -41,25 +36,40 @@ Applications :
 
 A Python implementation is provided [here](https://github.com/theplatypus/scott) under MIT license.
 
-## Curriculum 
+## Experience
 
-### Experience  
+### Data Engineer @Ekinops
+*August 2022 - Present*  
+Lannion, Brittany, France
 
-#### PhD Student/Engineer @[See-d](https://www.see-d.fr/) - Oct. 2016 -> Now
+- Participation in the redesign of an IP monitoring system (Netflow) generating a massive flow of data to be collected and aggregated.
+- Maintenance of the existing system, design and architecture of the upcoming major version of the system on another technology (OLAP).
+- Migrations of SQL databases.
+- Index tailoring.
 
-Position consisting in both realizing a long-term project under the form of a thesis (see below), and being the referent DevOps on other projects led at See-d.
+Skills: Online Analytical Processing (OLAP), Go, SQL (PostgreSQL, MariaDB, Galera), Python (asyncio), Data engineering.
 
-Strong experience in :
+### Data Scientist @See-d
+*December 2019 - August 2022 (2 years 9 months)*
 
- - graph-algorithms development and implementation (Python/PySpark) 
- - application deployment/delivery (Docker)
- - industrialization of Data-Science PoC (Software Architecture, Reliability)
+- Processing and analysis of data on data science projects of various themes (agronomy, logistics, text-mining, imaging).
+- Specialized in graph theory, image analysis (Computer Vision), natural language processing (NLP).
+- Deployment and industrialization of Data Science projects (MLOps).
+  - Docker + Linux, Anaconda.
+- Report writing and project presentation (notebooks).
+- Conducting internal or external pedagogical workshops.
+
+Skills: Data science, Python (PySpark, PyTorch), R, Computer Vision, Statistical modeling, SQL, MLOps.
 
 ### Education  
 
-#### PhD CIFRE thesis (2016-2019)
+#### Doctorate in Computer Science (PhD) - CIFRE Thesis (2016-2019)
 
 Thesis funded by an industrial group (CIFRE convention), Industrially directed by See-d and academically framed by IRISA (Expression team) and LMBA.
+
+Thesis topic: Machine learning applied to structure-activity relationships (QSAR). Development of Feature-Learning algorithms for topological data representation, with a focus on graphs. Exploration of correlations between topological and macroscopic models. 
+
+Skills gained: Graph theory, Statistical modeling, Data analysis, Data science.
 
 > **Abstract** : In the field of chemistry, it is interesting to be able to estimate the physicochemical properties of molecules, especially for industrial applications. These are difficult to estimate by physical simulations, as their implementation often present prohibitive time complexity. However, the emergence of data (public or private) opens new perspectives for the treatment of these problems by statistical methods and machine learning. The main difficulty lies in the characterization of molecules: these are more like a network of atoms (in other words a colored graph) than a vector. Unfortunately, statistical modeling methods usually deal with observations encoded as such, hence the need for specific methods able to deal with graphs-encoded observations, called structure-activity relationships. The aim of this thesis is to take advantage of public corpora to learn the best possible representations of these structures, and to transfer this global knowledge to smaller datasets. We adapted methods used in automatic processing of natural languages to achieve this goal. To implement them, more theoretical work was needed, especially on the graph isomorphism problem. The results obtained on classification / regression tasks are at least competitive with the state of the art, and even sometimes better, in particular on restricted data sets, attesting some opportunities for transfer learning in this field.
 
@@ -69,18 +79,6 @@ Available on [TEL](https://tel.archives-ouvertes.fr/tel-02499167).
 
 University of South Brittany, obtained with honors.
 
-
-### And also... 
-
-#### Photos 
-
-I really like photography, and you will find some of my favorites shots on my Adobe [portfolio](https://theplatypus.myportfolio.com).
-
-Some good links :
- - My uncle's photo blog [Headinstars](http://headinstars.com/)
- - AFP [Insta](https://www.instagram.com/afpphoto/)
-
-...
 
 
 ![cafeine](https://raw.githubusercontent.com/theplatypus/theplatypus.github.io/master/assets/img/cafein.svg?sanitize=true)
