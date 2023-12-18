@@ -61,9 +61,9 @@ Skills: Online Analytical Processing (OLAP), Go, SQL (PostgreSQL, MariaDB, Galer
 
 Skills: Data science, Python (PySpark, PyTorch), R, Computer Vision, Statistical modeling, SQL, MLOps.
 
-### Education  
+## Education  
 
-#### Doctorate in Computer Science (PhD) - CIFRE Thesis (2016-2019)
+### Doctorate in Computer Science (PhD) - CIFRE Thesis (2016-2019)
 
 Thesis funded by an industrial group (CIFRE convention), Industrially directed by See-d and academically framed by IRISA (Expression team) and LMBA.
 
@@ -75,7 +75,7 @@ Skills gained: Graph theory, Statistical modeling, Data analysis, Data science.
 
 Available on [TEL](https://tel.archives-ouvertes.fr/tel-02499167).
 
-#### M.Sc. Computer Science (2014-2016)
+### M.Sc. Computer Science (2014-2016)
 
 University of South Brittany, obtained with honors.
 
