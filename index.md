@@ -42,7 +42,7 @@ A Python implementation is provided [here](https://github.com/theplatypus/scott)
 *August 2022 - Present*  
 Lannion, Brittany, France
 
-- Participation in the redesign of an IP monitoring system (Netflow) generating a massive flow of data to be collected and aggregated.
+- Participation in the redesign of an IP monitoring system (Netflow) in a SD-WAN product, generating a massive flow of data to be collected and aggregated.
 - Maintenance of the existing system, design and architecture of the upcoming major version of the system on another technology (OLAP).
 - Implementation of testing/simulation tools, generation of massive network data.
 - Migrations of SQL databases.
