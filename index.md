@@ -89,10 +89,15 @@ Must-read books
 - [Programmation efficace, Dürr Christoph, Vie Jill-Jênn](https://www.editions-ellipses.fr/accueil/3853-programmation-efficace-128-algorithmes-quil-faut-avoir-compris-et-codes-en-python-au-cours-de-sa-vie-9782340010055.html)
 - [Designing Data-Intensive Applications, Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ; fond of his [poster](https://github.com/ept/ddia-references/blob/master/ddia-poster.jpg) from that book
 
-### Trivia
+### And also...
 
-Did you know that graph are so versatile that their generalization (hypergraphs) can themselves be represented as graphs?
+- Did you know that graph are so versatile that their generalization (hypergraphs) can themselves be represented as graphs?
+- I enjoy, in that order
+ - photography
+ - playing Magic
+ - running (proud marathonian)
 
+  
 ![cafeine](https://raw.githubusercontent.com/theplatypus/theplatypus.github.io/master/assets/img/cafein.svg?sanitize=true)
 
 
