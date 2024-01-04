@@ -53,14 +53,14 @@ Skills:  Python (asyncio, pola.rs), Data engineering, Online Analytical Processi
 ### Data Scientist @See-d
 *December 2019 - August 2022 (2 years 9 months)*
 
-- Processing and analysis of data on data science projects of various themes (agronomy, logistics, text-mining, imaging).
-- Specialized in graph theory, image analysis (Computer Vision), natural language processing (NLP).
+- Regression, Classification, Forecasting on various industrial topics (agronomy, logistics).
+- Natural Language Processing NLP (topic segmentation, sentiment analysis).
+- Image analysis (Computer Vision, anomaly detection, CNN) for production monitoring and quality control.
 - Deployment and industrialization of Data Science projects (MLOps).
-  - Docker + Linux, Anaconda.
 - Report writing and project presentation (notebooks).
-- Conducting internal or external pedagogical workshops.
+- Writing and conducting internal/external pedagogical workshops and trainings.
 
-Skills: Data science, Python (PySpark, PyTorch), R, Computer Vision, Statistical modeling, SQL, MLOps.
+Skills: Data science, Python (PySpark, PyTorch), R, Computer Vision, Statistical modeling, SQL, MLOps (Docker + Linux, Anaconda).
 
 ## Education  
 
@@ -74,7 +74,7 @@ Thesis funded by an industrial group (CIFRE convention), Industrially directed b
 
 Available on [TEL](https://tel.archives-ouvertes.fr/tel-02499167).
 
-Skills: Graph theory, Statistical modeling, Data analysis, Data science.
+Skills: Graph theory, Algorithmic Complexity, QSAR modeling, Statistical modeling, Data analysis, Data science.
 
 ### M.Sc. Computer Science (2014-2016)
 
