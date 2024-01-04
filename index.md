@@ -94,6 +94,7 @@ Must-read books
 - Did you know that graph are so versatile that their generalization (hypergraphs) can themselves be represented as graphs?
 - I enjoy, in that order
  - photography
+ - piano
  - playing Magic
  - running (proud marathonian)
 
