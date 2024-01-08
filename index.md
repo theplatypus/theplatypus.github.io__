@@ -52,6 +52,7 @@ Skills:  Python (asyncio, pola.rs), Data engineering, Online Analytical Processi
 
 ### Data Scientist @See-d
 *December 2019 - August 2022 (2 years 9 months)*
+Vannes, Brittany, France
 
 - Regression, Classification, Forecasting on various industrial topics (agronomy, logistics).
 - Natural Language Processing NLP (topic segmentation, sentiment analysis).
