@@ -99,7 +99,8 @@ Must-read books
   - playing Magic
   - running (proud marathonian)
 
-  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 ![cafeine](https://raw.githubusercontent.com/theplatypus/theplatypus.github.io/master/assets/img/cafein.svg?sanitize=true)
 
 
