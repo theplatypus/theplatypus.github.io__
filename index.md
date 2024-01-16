@@ -36,35 +36,6 @@ Applications :
 
 A Python implementation is provided [here](https://github.com/theplatypus/scott) under MIT license.
 
-## Experience
-
-### Data Engineer @Ekinops
-*August 2022 - Present*  
-Lannion, Brittany, France
-
-- Participation in the redesign of an IP monitoring system (Netflow) in a SD-WAN product, generating a massive flow of data to be collected and aggregated.
-- Maintenance of the existing system, design and architecture of the upcoming major version of the system on another technology (OLAP).
-- Implementation of testing/simulation tools, generation of massive network data.
-- Migrations of SQL databases.
-- Index tailoring.
-
-Skills:  Python (asyncio, pola.rs), Data engineering, Online Analytical Processing (OLAP), Go, SQL (PostgreSQL, MariaDB, Galera).
-
-### Data Scientist @See-d
-*December 2019 - August 2022 (2 years 9 months)*
-Vannes, Brittany, France
-
-- Regression, Classification, Forecasting on various industrial topics (agronomy, logistics).
-- Natural Language Processing NLP (topic segmentation, sentiment analysis).
-- Image analysis (Computer Vision, anomaly detection, CNN) for production monitoring and quality control.
-- Deployment and industrialization of Data Science projects (MLOps).
-- Report writing and project presentation (notebooks).
-- Writing and conducting internal/external pedagogical workshops and trainings.
-
-Skills: Data science, Python (PySpark, PyTorch), R, Computer Vision, Statistical modeling, SQL, MLOps (Docker + Linux, Anaconda).
-
-## Education  
-
 ### Doctorate in Computer Science (PhD) - CIFRE Thesis (2016-2019)
 
 Thesis funded by an industrial group (CIFRE convention), Industrially directed by See-d and academically framed by IRISA (Expression team) and LMBA.
@@ -77,9 +48,9 @@ Available on [TEL](https://tel.archives-ouvertes.fr/tel-02499167).
 
 Skills: Graph theory, Algorithmic Complexity, QSAR modeling, Statistical modeling, Data analysis, Data science.
 
-### M.Sc. Computer Science (2014-2016)
+## Curriculum
 
-University of South Brittany, obtained with honors.
+You will find an up-to-date and complete curriculum on [theplatypus.github.io/online-cv/](https://theplatypus.github.io/online-cv/).
 
 ## Others
 
