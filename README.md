@@ -1,6 +1,7 @@
 ## Github Personal page
 
 My [personal page](https://theplatypus.github.io) hosted on Github Pages.
+Find my [curriculum](https://theplatypus.github.io/online-cv/) on the `online-cv` path.
 
 ### Acknoledgments
 
